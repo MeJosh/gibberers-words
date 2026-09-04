@@ -1,0 +1,2806 @@
+{
+  "1": [
+    {
+      "card_number": 1,
+      "words": [
+        {
+          "word": "Ants / Line",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Mistletoe / Poisonous",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Calm / Subdued",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Bees / Group",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Stonehenge",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 2,
+      "words": [
+        {
+          "word": "Orange / Round",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Chameleon / Change",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Frog / Jump",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Swallow / Travel",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Noah\u2019s Arc",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 3,
+      "words": [
+        {
+          "word": "Cat / Play",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Lotus / Beautiful",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Cuckoo / Steal",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Cloud / Float",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Dragon",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 4,
+      "words": [
+        {
+          "word": "Grasshopper / Increase",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Rose / Love",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Fox / Wicked",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Stick / Long",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Fairy",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 5,
+      "words": [
+        {
+          "word": "Banana / Bunch",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Lily / White",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Fang / Painful",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Sea / Large",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Oil / Black",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 6,
+      "words": [
+        {
+          "word": "Mole / Hide",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Lion / Strong",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Giraffe / Tall",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Turtle / Slow",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Eyes / See",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 7,
+      "words": [
+        {
+          "word": "Ivy / Grow",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Apple / Drop",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Bear / Find",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Gold / Valuable",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Horse / Ride",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 8,
+      "words": [
+        {
+          "word": "Rain / Wet",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Flower / Bloom",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Gorilla / Strong",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Silver / Shiny",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Egg / Lay",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 9,
+      "words": [
+        {
+          "word": "Salt / Seasoned",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Hole / Empty",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Elephant / Raise",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Moon / Mysterious",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Nectar / Viscous",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 10,
+      "words": [
+        {
+          "word": "Rock / Stop",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Blood / Red",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Wolf / Chase",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Mountain / Steadfast",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Wave / Sway",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 11,
+      "words": [
+        {
+          "word": "Cow / Transport",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Light / Bright",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Mouse / Die",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Coral / Colorful",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Bird / Fly",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 12,
+      "words": [
+        {
+          "word": "Fish / Swim",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Cherry Blossom / Decorate",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Crocodile / Bite",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Seed / Develop",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Volcano / Scary",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 13,
+      "words": [
+        {
+          "word": "Salmon / Return",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Goat / Offer",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Flame / Burn",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Star / Extreme",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Meat / Decay",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 14,
+      "words": [
+        {
+          "word": "Food / Eat",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Death / Strike",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Dog / Bark",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Sand / Fine",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Milk / Drink",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 15,
+      "words": [
+        {
+          "word": "Water / Transparent",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Heart / Live",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Shoulder / Support",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Insect / Small",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Battle / Fight",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 16,
+      "words": [
+        {
+          "word": "Leg / Walk",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Sun / Warm",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Bone / Knock",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Hot spring / Hot",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Ice / Cold",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 17,
+      "words": [
+        {
+          "word": "Butterfly / Dance",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Earthquake / Tremble",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Stone / Throw",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Board / Press",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Parthenon Temple",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "card_number": 18,
+      "words": [
+        {
+          "word": "Hat / Weave",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "King / Decide",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Blade / Useful",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Earth / Vast",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Elf",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 19,
+      "words": [
+        {
+          "word": "Clothes / Wear",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Guard / Careful",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Storm / Rough",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Paper / Write",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Zeus",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 20,
+      "words": [
+        {
+          "word": "Coffee / Bitter",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Altar / Arrange",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Sword / Thrust",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Tool / Use",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Doppelganger",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 21,
+      "words": [
+        {
+          "word": "Harp / Splendid",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Knowledge / Learn",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Weapon / Hold",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Rope / Bind",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Mermaid",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 22,
+      "words": [
+        {
+          "word": "Cheese / Fermented",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Book / Read",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Graveyard / End",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Arm / Sturdy",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Bard / Raptured",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 23,
+      "words": [
+        {
+          "word": "Grapes / Several",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Alcohol / Celebrate",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Disease / Infect",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Gunpowder / Explode",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Statue / Shape",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 24,
+      "words": [
+        {
+          "word": "Sugar / Sweet",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Scale / Compare",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Shark / Terrifying",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Wheel / Turn",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Ship / Forward",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 25,
+      "words": [
+        {
+          "word": "Market / Crowd",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Letter / Send",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Spy / Hide",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Painting / Draw",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Boomerang / Return",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 26,
+      "words": [
+        {
+          "word": "Wheat / Preserve",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Angel / Venerate",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Tobacco / Smoke",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Key / Lock",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Performer / Entertain",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 27,
+      "words": [
+        {
+          "word": "Beans / Process",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "City / Artificial",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Chess / Think",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Surgery / Care",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Church / Pray",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 28,
+      "words": [
+        {
+          "word": "Merchant / Talkative",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Coffin / Angular",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Tunnel / Dig",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Glue / Attach",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Catapult / Mechanical",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 29,
+      "words": [
+        {
+          "word": "Shepherd / Diligent",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Silk / Smooth",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Cavalry / Magnificent",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Zoo / Various",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Clock / Precise",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 30,
+      "words": [
+        {
+          "word": "Thread",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Dam",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Handcuffs",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Road",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Crow",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 31,
+      "words": [
+        {
+          "word": "Knife / Cut",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Bread / Daily",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Crossbow / Pull",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Room / Isolated",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Mirror / Identical",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 32,
+      "words": [
+        {
+          "word": "Beetle / Lift",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Wine / Pressed",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Blizzard / Shelter",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Windmill / Power",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Hoe / Sturdy",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 33,
+      "words": [
+        {
+          "word": "Furnace / Cook",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Fireworks / Flammable",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Castle / Defend",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Jewels / Glittering",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Door / Open",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 34,
+      "words": [
+        {
+          "word": "Craftsmen / Associate",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Flag / Flutter",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Mercenary / Hire",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Glasses / Clarify",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Atlantis",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "card_number": 35,
+      "words": [
+        {
+          "word": "Passport",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Constitution",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Cipher",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Mold",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Mandala",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 36,
+      "words": [
+        {
+          "word": "Achilles Heel",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Santa Claus",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Gasoline",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Compass",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Zombie",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 37,
+      "words": [
+        {
+          "word": "Part-time Job",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Pipe Organ",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Gun",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Typewriter",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Labyrinth",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 38,
+      "words": [
+        {
+          "word": "Violin",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Mummy",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Radio",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Camera",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Ether",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 39,
+      "words": [
+        {
+          "word": "Oasis",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Demon",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Hammer throw",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Plate tectonics",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Vampire",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 40,
+      "words": [
+        {
+          "word": "Platypus",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Assassination",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Camel",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Gravity",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Detective",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 41,
+      "words": [
+        {
+          "word": "Chocolate",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Canal",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Resistance",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Lens",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Bribe",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 42,
+      "words": [
+        {
+          "word": "Whiskey",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Speech",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Hero",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Loom",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Coup d\u2019etat",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 43,
+      "words": [
+        {
+          "word": "Cactus",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Magic",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Arc de Triomphe",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Pi",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Refrigerator",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 44,
+      "words": [
+        {
+          "word": "Tax",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Philosophy",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Virtue",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Theory of Evolution",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Canned Food",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 45,
+      "words": [
+        {
+          "word": "Maid",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Advertisement",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Medal",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Aqua Regia",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Spirit",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 46,
+      "words": [
+        {
+          "word": "Tequila",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Festival",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Airship",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Anatomy",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Hand grenade",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 47,
+      "words": [
+        {
+          "word": "Honey",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Courthouse",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Tank",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Parasite",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Sample",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 48,
+      "words": [
+        {
+          "word": "Well",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Fresco",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "General",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Acrobat",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Sundial",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 49,
+      "words": [
+        {
+          "word": "Street Food",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Shrine",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Newspaper",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Ferris Wheel",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Pilgrimage",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 50,
+      "words": [
+        {
+          "word": "Boardgame",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Election",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Bioweapon",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Periodic Table",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Smoke Signal",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 51,
+      "words": [
+        {
+          "word": "Picnic",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Polytheism",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Conscription",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Vacuum",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Millions",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 52,
+      "words": [
+        {
+          "word": "Invoice",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Clown",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Arena",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Printing Press",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Uniform",
+          "categories": [
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 53,
+      "words": [
+        {
+          "word": "Fraud",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Solar Eclipse",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Special Forces",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Electromagnet",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Talisman",
+          "categories": [
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 54,
+      "words": [
+        {
+          "word": "Sushi",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Woodcut Print",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Martial Arts",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Lightning Rod",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Business",
+          "categories": [
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 55,
+      "words": [
+        {
+          "word": "Honeymoon",
+          "categories": [
+            "Y"
+          ]
+        },
+        {
+          "word": "Stained Glass",
+          "categories": [
+            "B"
+          ]
+        },
+        {
+          "word": "Captive",
+          "categories": [
+            "R"
+          ]
+        },
+        {
+          "word": "Encyclopedia",
+          "categories": [
+            "G"
+          ]
+        },
+        {
+          "word": "Lottery",
+          "categories": [
+            "G"
+          ]
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "card_number": 56,
+      "words": [
+        {
+          "word": "Franchise",
+          "categories": [
+            "Y",
+            "G"
+          ]
+        },
+        {
+          "word": "Fairy Taile",
+          "categories": [
+            "B",
+            "G"
+          ]
+        },
+        {
+          "word": "Doping",
+          "categories": [
+            "R",
+            "G"
+          ]
+        },
+        {
+          "word": "MRI",
+          "categories": [
+            "G",
+            "G"
+          ]
+        },
+        {
+          "word": "Excalibur",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 57,
+      "words": [
+        {
+          "word": "Flatshare",
+          "categories": [
+            "Y",
+            "G"
+          ]
+        },
+        {
+          "word": "Shares",
+          "categories": [
+            "B",
+            "G"
+          ]
+        },
+        {
+          "word": "Big Bang",
+          "categories": [
+            "R",
+            "G"
+          ]
+        },
+        {
+          "word": "Trigonometry",
+          "categories": [
+            "G",
+            "G"
+          ]
+        },
+        {
+          "word": "Armageddon",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 58,
+      "words": [
+        {
+          "word": "Breeding",
+          "categories": [
+            "Y",
+            "G"
+          ]
+        },
+        {
+          "word": "Prejudice",
+          "categories": [
+            "B",
+            "G"
+          ]
+        },
+        {
+          "word": "Malware",
+          "categories": [
+            "R",
+            "G"
+          ]
+        },
+        {
+          "word": "Artificial Intelligence",
+          "categories": [
+            "G",
+            "G"
+          ]
+        },
+        {
+          "word": "Tower of Babel",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 59,
+      "words": [
+        {
+          "word": "Social Network",
+          "categories": [
+            "Y",
+            "G"
+          ]
+        },
+        {
+          "word": "Hypnosis",
+          "categories": [
+            "B",
+            "G"
+          ]
+        },
+        {
+          "word": "Hacking",
+          "categories": [
+            "R",
+            "G"
+          ]
+        },
+        {
+          "word": "Theory of Relativity",
+          "categories": [
+            "G",
+            "G"
+          ]
+        },
+        {
+          "word": "Medusa",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 60,
+      "words": [
+        {
+          "word": "Cubism",
+          "categories": [
+            "Y",
+            "B"
+          ]
+        },
+        {
+          "word": "Atheism",
+          "categories": [
+            "B",
+            "B"
+          ]
+        },
+        {
+          "word": "Civil War",
+          "categories": [
+            "R",
+            "B"
+          ]
+        },
+        {
+          "word": "Internet",
+          "categories": [
+            "G",
+            "B"
+          ]
+        },
+        {
+          "word": "Spear of Longinus",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 61,
+      "words": [
+        {
+          "word": "Job Hunting",
+          "categories": [
+            "Y",
+            "B"
+          ]
+        },
+        {
+          "word": "Indulgence",
+          "categories": [
+            "B",
+            "B"
+          ]
+        },
+        {
+          "word": "Declaration of Independence",
+          "categories": [
+            "R",
+            "B"
+          ]
+        },
+        {
+          "word": "Credit Card",
+          "categories": [
+            "G",
+            "B"
+          ]
+        },
+        {
+          "word": "Warp Drive",
+          "categories": [
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 62,
+      "words": [
+        {
+          "word": "World Peace",
+          "categories": [
+            "Y",
+            "B"
+          ]
+        },
+        {
+          "word": "Hell",
+          "categories": [
+            "B",
+            "B"
+          ]
+        },
+        {
+          "word": "Revolution",
+          "categories": [
+            "R",
+            "B"
+          ]
+        },
+        {
+          "word": "Cryptocurrency",
+          "categories": [
+            "G",
+            "B"
+          ]
+        },
+        {
+          "word": "Freeze Drying",
+          "categories": [
+            "Y",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 63,
+      "words": [
+        {
+          "word": "World Heritage Site",
+          "categories": [
+            "Y",
+            "B"
+          ]
+        },
+        {
+          "word": "S\u00e9ance",
+          "categories": [
+            "B",
+            "B"
+          ]
+        },
+        {
+          "word": "Sabotage",
+          "categories": [
+            "R",
+            "B"
+          ]
+        },
+        {
+          "word": "Authentication",
+          "categories": [
+            "G",
+            "B"
+          ]
+        },
+        {
+          "word": "Pyramid",
+          "categories": [
+            "B",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 64,
+      "words": [
+        {
+          "word": "TV Ratings",
+          "categories": [
+            "Y",
+            "R"
+          ]
+        },
+        {
+          "word": "Communism",
+          "categories": [
+            "B",
+            "R"
+          ]
+        },
+        {
+          "word": "Double Agent",
+          "categories": [
+            "R",
+            "R"
+          ]
+        },
+        {
+          "word": "GPS",
+          "categories": [
+            "G",
+            "R"
+          ]
+        },
+        {
+          "word": "Helicopter",
+          "categories": [
+            "R",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 65,
+      "words": [
+        {
+          "word": "Chain Letter",
+          "categories": [
+            "Y",
+            "R"
+          ]
+        },
+        {
+          "word": "Self",
+          "categories": [
+            "B",
+            "R"
+          ]
+        },
+        {
+          "word": "Darkness",
+          "categories": [
+            "R",
+            "R"
+          ]
+        },
+        {
+          "word": "Energy",
+          "categories": [
+            "G",
+            "R"
+          ]
+        },
+        {
+          "word": "Photosynthesis",
+          "categories": [
+            "G",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 66,
+      "words": [
+        {
+          "word": "Marketing",
+          "categories": [
+            "Y",
+            "R"
+          ]
+        },
+        {
+          "word": "Narcissist",
+          "categories": [
+            "B",
+            "R"
+          ]
+        },
+        {
+          "word": "Corruption",
+          "categories": [
+            "R",
+            "R"
+          ]
+        },
+        {
+          "word": "Drone",
+          "categories": [
+            "G",
+            "R"
+          ]
+        },
+        {
+          "word": "Dancing Lights",
+          "categories": [
+            "Y",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 67,
+      "words": [
+        {
+          "word": "Prohibition",
+          "categories": [
+            "Y",
+            "R"
+          ]
+        },
+        {
+          "word": "Demographic",
+          "categories": [
+            "B",
+            "R"
+          ]
+        },
+        {
+          "word": "Dictator",
+          "categories": [
+            "R",
+            "R"
+          ]
+        },
+        {
+          "word": "Nuclear Fusion",
+          "categories": [
+            "G",
+            "R"
+          ]
+        },
+        {
+          "word": "Best Friend",
+          "categories": [
+            "B",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 68,
+      "words": [
+        {
+          "word": "Insider Trading",
+          "categories": [
+            "Y",
+            "Y"
+          ]
+        },
+        {
+          "word": "Book-Lover",
+          "categories": [
+            "B",
+            "Y"
+          ]
+        },
+        {
+          "word": "Great Depression",
+          "categories": [
+            "R",
+            "Y"
+          ]
+        },
+        {
+          "word": "Allergy",
+          "categories": [
+            "G",
+            "Y"
+          ]
+        },
+        {
+          "word": "Contradiction",
+          "categories": [
+            "R",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 69,
+      "words": [
+        {
+          "word": "Eat-In",
+          "categories": [
+            "Y",
+            "Y"
+          ]
+        },
+        {
+          "word": "Fandom",
+          "categories": [
+            "B",
+            "Y"
+          ]
+        },
+        {
+          "word": "Refugee",
+          "categories": [
+            "R",
+            "Y"
+          ]
+        },
+        {
+          "word": "Implant",
+          "categories": [
+            "G",
+            "Y"
+          ]
+        },
+        {
+          "word": "Prism",
+          "categories": [
+            "G",
+            "Y"
+          ]
+        }
+      ]
+    }
+  ],
+  "5": [
+    {
+      "card_number": 70,
+      "words": [
+        {
+          "word": "Subscription",
+          "categories": [
+            "Y",
+            "Y",
+            "G"
+          ]
+        },
+        {
+          "word": "Heart transplant",
+          "categories": [
+            "B",
+            "B",
+            "G"
+          ]
+        },
+        {
+          "word": "Wormhole",
+          "categories": [
+            "R",
+            "R",
+            "G"
+          ]
+        },
+        {
+          "word": "Time-Travel",
+          "categories": [
+            "G",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "word": "Psychological complex",
+          "categories": [
+            "Y",
+            "Y",
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 71,
+      "words": [
+        {
+          "word": "Space Colony",
+          "categories": [
+            "Y",
+            "Y",
+            "G"
+          ]
+        },
+        {
+          "word": "Schr\u00f6dinger\u2019s cat",
+          "categories": [
+            "B",
+            "B",
+            "G"
+          ]
+        },
+        {
+          "word": "Camouflage",
+          "categories": [
+            "R",
+            "R",
+            "G"
+          ]
+        },
+        {
+          "word": "Global Warming",
+          "categories": [
+            "G",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "word": "Reincarnation",
+          "categories": [
+            "B",
+            "B",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 72,
+      "words": [
+        {
+          "word": "Parallel World",
+          "categories": [
+            "Y",
+            "Y",
+            "G"
+          ]
+        },
+        {
+          "word": "Enlightenment",
+          "categories": [
+            "B",
+            "B",
+            "G"
+          ]
+        },
+        {
+          "word": "Supernova",
+          "categories": [
+            "R",
+            "R",
+            "G"
+          ]
+        },
+        {
+          "word": "Elementary particle",
+          "categories": [
+            "G",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "word": "International Law",
+          "categories": [
+            "R",
+            "R",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 73,
+      "words": [
+        {
+          "word": "Designer Baby",
+          "categories": [
+            "Y",
+            "Y",
+            "B"
+          ]
+        },
+        {
+          "word": "Dystopia",
+          "categories": [
+            "B",
+            "B",
+            "R"
+          ]
+        },
+        {
+          "word": "Post-Apocalypse",
+          "categories": [
+            "R",
+            "R",
+            "B"
+          ]
+        },
+        {
+          "word": "Cryogenic Sleep",
+          "categories": [
+            "G",
+            "G",
+            "R"
+          ]
+        },
+        {
+          "word": "Animatter",
+          "categories": [
+            "G",
+            "G",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 74,
+      "words": [
+        {
+          "word": "Gene",
+          "categories": [
+            "Y",
+            "Y",
+            "B"
+          ]
+        },
+        {
+          "word": "Basic Income",
+          "categories": [
+            "B",
+            "B",
+            "R"
+          ]
+        },
+        {
+          "word": "Game Theory",
+          "categories": [
+            "R",
+            "R",
+            "B"
+          ]
+        },
+        {
+          "word": "Nanomachines",
+          "categories": [
+            "G",
+            "G",
+            "R"
+          ]
+        },
+        {
+          "word": "Vegan",
+          "categories": [
+            "Y",
+            "Y",
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 75,
+      "words": [
+        {
+          "word": "Noblesse oblige",
+          "categories": [
+            "Y",
+            "Y",
+            "B"
+          ]
+        },
+        {
+          "word": "Dark Matter",
+          "categories": [
+            "B",
+            "B",
+            "R"
+          ]
+        },
+        {
+          "word": "World War III",
+          "categories": [
+            "R",
+            "R",
+            "B"
+          ]
+        },
+        {
+          "word": "Perpetual Motion Machine",
+          "categories": [
+            "G",
+            "G",
+            "R"
+          ]
+        },
+        {
+          "word": "Globalism",
+          "categories": [
+            "B",
+            "B",
+            "Y"
+          ]
+        }
+      ]
+    },
+    {
+      "card_number": 76,
+      "words": [
+        {
+          "word": "Influencer",
+          "categories": [
+            "Y",
+            "Y",
+            "R"
+          ]
+        },
+        {
+          "word": "Esotericism",
+          "categories": [
+            "B",
+            "B",
+            "Y"
+          ]
+        },
+        {
+          "word": "Space War",
+          "categories": [
+            "R",
+            "R",
+            "Y"
+          ]
+        },
+        {
+          "word": "Quantum Computer",
+          "categories": [
+            "G",
+            "G",
+            "Y"
+          ]
+        },
+        {
+          "word": "Economic Sanctions",
+          "categories": [
+            "R",
+            "R",
+            "Y"
+          ]
+        }
+      ]
+    }
+  ]
+}

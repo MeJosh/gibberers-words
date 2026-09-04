@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "ignorePatterns": ["data/words.json", "dist/**", "coverage/**", "playwright-report/**"],
+  "printWidth": 100,
+  "singleQuote": true,
+  "sortImports": {},
+  "sortTailwindcss": {}
+}

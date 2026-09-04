@@ -1,0 +1,27 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["eslint", "typescript", "import", "react", "jsx-a11y", "vitest"],
+  "env": {
+    "browser": true,
+    "node": true,
+    "vitest": true
+  },
+  "categories": {
+    "correctness": "error",
+    "suspicious": "warn",
+    "perf": "warn"
+  },
+  "options": {
+    "denyWarnings": true,
+    "reportUnusedDisableDirectives": "error"
+  },
+  "rules": {
+    "eqeqeq": "error",
+    "import/no-cycle": "error",
+    "import/no-unassigned-import": "off",
+    "react/jsx-key": "error",
+    "react/no-array-index-key": "off",
+    "react/react-in-jsx-scope": "off"
+  },
+  "ignorePatterns": ["dist/**", "coverage/**", "playwright-report/**", "*.d.ts", "vite.config.js"]
+}

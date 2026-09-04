@@ -15,7 +15,7 @@ export default defineConfig({
     { name: 'mobile-chromium', use: { ...devices['Pixel 5'] } },
   ],
   webServer: {
-    command: 'pnpm run preview -- --host 127.0.0.1',
+    command: 'pnpm exec vite preview --host 127.0.0.1',
     port: 4173,
     reuseExistingServer: !process.env.CI,
   },

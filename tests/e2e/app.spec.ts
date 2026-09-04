@@ -15,11 +15,11 @@ test('switches between generations', async ({ page }) => {
   await page.goto('/');
 
   const originalCard = await page.locator('.card-number').textContent();
-  await page.getByRole('button', { name: 'Generation 5' }).click();
+  await page.locator('.generation-button[data-generation="5"]').click();
   await expect(page.getByText('Generation 5', { exact: true })).toBeVisible();
   await expect(page.locator('.word-row')).toHaveCount(5);
 
-  await page.getByRole('button', { name: 'Generation 1' }).click();
+  await page.locator('.generation-button[data-generation="1"]').click();
   await expect(page.locator('.card-number')).toHaveText(originalCard ?? '');
 });
 
